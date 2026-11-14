@@ -1,0 +1,161 @@
+id,subset,image_path,gt,legibility,source,source_detail,annotation_source,page_file,region_idx,x1,y1,x2,y2,crop_w,crop_h
+0,main,data/rukopys\main_0000.png,Діти люблять чутися в гурті.,legible,dictation,national_dictation,annotator,images/3e4c06eb-813d-4bfd-a489-ec2508f8cb05.jpg,8,376,1666,3034,1852,2674,202
+1,main,data/rukopys\main_0001.png,"ке ""Динамо"", Україна була закохана в голоси",legible,dictation,national_dictation,annotator,images/25a2a11a-a1f8-4c27-9f63-a12213d8b234.jpg,24,242,3316,2928,3496,2702,196
+2,main,data/rukopys\main_0002.png,- Реве та стогне! - а за,legible,dictation,national_dictation,annotator,images/084db0da-7889-46da-93a5-a0f124325ec4.jpg,7,151,1410,1403,1529,1268,135
+3,main,data/rukopys\main_0003.png,чий спів у сталінські роки всесоюзне,legible,dictation,national_dictation,annotator,images/0f920fea-18c9-4fb7-b520-b57c73fa6ca7.jpg,10,386,2601,3322,2877,2952,292
+4,main,data/rukopys\main_0004.png,"до школи, а їхні тати-мами -",legible,dictation,national_dictation,annotator,images/1338213d-892b-48ae-bd98-650f2068fe1c.jpg,15,112,3052,3212,3242,3116,206
+5,main,data/rukopys\main_0005.png,"мільйони дітей так само збираються до школи,",legible,dictation,national_dictation,annotator,images/3c154436-09a5-4a7f-9dde-9872ea84201e.jpg,8,254,1624,3260,1779,3022,171
+6,main,data/rukopys\main_0006.png,а їхні тати-мами на працю і всіх нас об'єднує голос із радіо.,legible,dictation,national_dictation,annotator,images/3e7b4eb1-92e3-41d4-928d-b23d112558d2.jpg,7,76,512,1528,720,1468,224
+7,main,data/rukopys\main_0007.png,сто років Україна звучить в ефірі планети,legible,dictation,national_dictation,annotator,images/1f0446e0-2d72-417e-aff0-3d6a1471f0b5.jpg,11,99,1961,3014,2140,2931,195
+8,main,data/rukopys\main_0008.png,всіх нас об'єднує голос із радіо. Людський,legible,dictation,national_dictation,annotator,images/0b118784-15ec-4009-b29b-9cebcd3ad18d.jpg,12,117,704,1570,767,1469,79
+9,main,data/rukopys\main_0009.png,"знак, що з-під теплої ковдри хоч-не-хоч",legible,dictation,national_dictation,annotator,images/0f2b1b9c-e6b6-49a9-9f68-4e36618c79e1.jpg,5,216,519,1354,640,1154,137
+10,main,data/rukopys\main_0010.png,"формою патріотизму, було вболівання за київсь-",legible,dictation,national_dictation,annotator,images/25a2a11a-a1f8-4c27-9f63-a12213d8b234.jpg,23,271,3202,2976,3368,2721,182
+11,main,data/rukopys\main_0011.png,"Та, попри усі зміни технологій, от уже сто років",legible,dictation,national_dictation,annotator,images/410fcd81-360d-4195-9d6e-c467f2e43082.jpg,26,225,2419,1978,2619,1769,216
+12,main,data/rukopys\main_0012.png,"фольклор засланчий, гулагівський,",legible,dictation,national_dictation,annotator,images/03071698-dea7-41c8-ba8d-ecaff057410c.jpg,20,112,1960,1528,2097,1432,153
+13,main,data/rukopys\main_0013.png,"за київське ""Динамо"", Україна була зако-",legible,dictation,national_dictation,annotator,images/183370a2-45c6-4e9a-80e5-8b377c13f51a.jpg,24,254,3353,2811,3477,2573,140
+14,main,data/rukopys\main_0014.png,"збираються до школи, а їхні тати-",legible,dictation,national_dictation,annotator,images/2fb86d32-8fd7-44e1-b614-4b6a5f95d04c.jpg,11,109,784,892,860,799,92
+15,main,data/rukopys\main_0015.png,"А в 1960-1980, коли єдиною дозволеною формою",legible,dictation,national_dictation,annotator,images/39c3eda8-e5d0-4566-a036-f002e92a91c6.jpg,19,477,2366,2954,2541,2493,191
+16,main,data/rukopys\main_0016.png,ковдри хоч-не-хоч пора вилізати.,legible,dictation,national_dictation,annotator,images/1dea0487-55bc-40cb-ba6b-1419aa3ad60b.jpg,6,39,1085,2042,1353,2019,284
+17,main,data/rukopys\main_0017.png,"голос - то, взагалі, матерія магічна, в нього",legible,dictation,national_dictation,annotator,images/11174a77-0509-416f-b976-dc8acee54aa8.jpg,14,497,1968,2700,2094,2219,142
+18,main,data/rukopys\main_0018.png,"тактів ‘Реве та стогне’, а за ним примусово",legible,dictation,national_dictation,annotator,images/3c154436-09a5-4a7f-9dde-9872ea84201e.jpg,3,263,826,2958,1008,2711,198
+19,main,data/rukopys\main_0019.png,"рокотання перших тактів: ,,Реве та стогне"",",legible,dictation,national_dictation,annotator,images/08679747-82e9-4168-b565-3db0a1aed887.jpg,3,198,355,2227,485,2045,146
+20,main,data/rukopys\main_0020.png,зі своїми і обурення привілеями,legible,dictation,national_dictation,annotator,images/38dae648-4bb3-4bc5-beee-ebc7cbea91cf.jpg,13,228,2446,2915,2633,2703,203
+21,main,data/rukopys\main_0021.png,"приємно думати, що цієї миті по країні",legible,dictation,national_dictation,annotator,images/43f52918-c573-4e72-99f0-cca0bc4b71c3.jpg,8,52,798,1396,877,1360,95
+22,main,data/rukopys\main_0022.png,"твій голос, то вітер мені з України приніс - під",legible,dictation,national_dictation,annotator,images/19308ca8-5604-47a4-af68-e8617b636f12.jpg,12,51,927,1995,1007,1960,96
+23,main,data/rukopys\main_0023.png,що підсуджували судді у вирішальних мат-,legible,dictation,national_dictation,annotator,images/17457515-a028-4906-aad7-a29fbf9f36f2.jpg,5,798,1079,3199,1198,2417,135
+24,main,data/rukopys\main_0024.png,"й досі танцюють на весіллях, не підозрюючи,",legible,dictation,national_dictation,annotator,images/149d0199-cda4-4e15-843c-51628b87759e.jpg,16,131,2640,2829,2784,2714,160
+25,main,data/rukopys\main_0025.png,спів у Сталінські роки всесоюзне радіо доносило,legible,dictation,national_dictation,annotator,images/40aac648-44b4-484b-89e3-9e95bef48f88.jpg,16,133,1424,1567,1498,1450,90
+26,main,data/rukopys\main_0026.png,"ве рокотання перших тактів ""Ре-",legible,dictation,national_dictation,annotator,images/07c60185-8c2a-40a2-95ef-e5c97ce611a1.jpg,3,55,307,1059,398,1020,107
+27,main,data/rukopys\main_0027.png,"можна закохатись, навіть не бачивши носія.",legible,dictation,national_dictation,annotator,images/18af2afd-4107-4598-b314-93c6af313422.jpg,15,469,1534,2918,1733,2465,215
+28,main,data/rukopys\main_0028.png,"Динамо, Україна була закохана в голоси",legible,dictation,national_dictation,annotator,images/148a5c2b-897e-4e21-9628-bd87b3c9cc62.jpg,7,157,791,2407,923,2266,148
+29,main,data/rukopys\main_0029.png,футбольних коментаторів. Їх упізна-,legible,dictation,national_dictation,annotator,images/01216aac-18f2-4422-9f8c-5922067419a1.jpg,8,44,1614,3035,1836,3007,238
+30,main,data/rukopys\main_0030.png,"магічна, в  нього можна зкохатись,",legible,dictation,national_dictation,annotator,images/0f2b1b9c-e6b6-49a9-9f68-4e36618c79e1.jpg,13,201,1079,1430,1152,1245,89
+31,main,data/rukopys\main_0031.png,"співачки Оксани Петрусенко, чи спів у",legible,dictation,national_dictation,annotator,images/08679747-82e9-4168-b565-3db0a1aed887.jpg,19,130,1788,2197,1883,2083,111
+32,main,data/rukopys\main_0032.png,"свіжого повітря, солідарність зі своїми і обурення приві-",legible,dictation,national_dictation,annotator,images/173273b8-8d91-41d2-aacc-24170b7acac4.jpg,19,289,7232,8400,7991,8119,775
+33,main,data/rukopys\main_0033.png,"думати, що цієї миті по країні мільйони дітей",legible,dictation,national_dictation,annotator,images/3208fd87-babc-4d14-92e5-208739f853fc.jpg,7,159,500,1541,572,1398,88
+34,main,data/rukopys\main_0034.png,"бачивши носія. , Оксано, Оксано, я чую",legible,dictation,national_dictation,annotator,images/1a620a73-901c-4cc4-855b-d3e5d57af441.jpg,21,55,957,820,1065,781,124
+35,main,data/rukopys\main_0035.png,то вітер мені з України приніс - під,legible,dictation,national_dictation,annotator,images/0a918216-a9c1-4be6-a368-08767542e780.jpg,18,0,1730,1571,1834,1579,120
+36,main,data/rukopys\main_0036.png,формою патріотизму було вболівання за,legible,dictation,national_dictation,annotator,images/06f50f23-09b2-481d-a013-85fd052c02e1.jpg,22,347,3355,2822,3531,2491,192
+37,main,data/rukopys\main_0037.png,"їхні тати-мами - на працю, і всіх",legible,dictation,national_dictation,annotator,images/13f5e553-8903-4b7b-93c1-e6c45586ccf4.jpg,11,28,759,1094,835,1082,92
+38,main,data/rukopys\main_0038.png,"приніс""- під це танго, й досі",legible,dictation,national_dictation,annotator,images/430dc905-bd15-4386-a674-dc32b8a40fce.jpg,2,94,328,1510,455,1432,143
+39,main,data/rukopys\main_0039.png,"до коханої дівчини звернений, а до легендар-",legible,dictation,national_dictation,annotator,images/11efa57d-daa1-45b2-aa77-a93833c70256.jpg,21,52,1221,1189,1371,1153,166
+40,main,data/rukopys\main_0040.png,"атома, її якісне обґрунтування на",legible,school,opornyi_lyceum_zymne,annotator,images/931b9836-0d37-599f-84ce-dbddff1b073e.jpg,3,317,676,2663,916,2362,256
+41,main,data/rukopys\main_0041.png,Четверте травня,legible,school,opornyi_lyceum_zymne,annotator,images/5c97f1e4-2fcb-5ba2-93ad-d30db2a3e063.jpg,0,1009,268,2376,503,1383,251
+42,main,data/rukopys\main_0042.png,"Дякую вам, що нагадали, котра зараз",legible,school,opornyi_lyceum_zymne,annotator,images/73d55b04-9c64-5dc6-a85d-a1ae3fa33b60.jpg,16,367,2302,2665,2472,2314,186
+43,main,data/rukopys\main_0043.png,Домашня робота,legible,school,opornyi_lyceum_zymne,annotator,images/af92f7d4-e539-53fe-a1da-329664f36ee3.jpg,5,188,162,835,261,663,115
+44,main,data/rukopys\main_0044.png,- Екологічна індикація;,legible,school,opornyi_lyceum_zymne,annotator,images/58fdd2f4-375b-55ef-957a-79f9f5220866.jpg,4,283,1474,1188,1606,921,148
+45,main,data/rukopys\main_0045.png,7.  1 - а 2. - в 3. - б,legible,school,opornyi_lyceum_zymne,annotator,images/5fb10a40-fe33-5740-b5ee-acf12722f525.jpg,11,290,1596,1201,1702,927,122
+46,main,data/rukopys\main_0046.png,Літературний диктант,legible,school,opornyi_lyceum_zymne,annotator,images/270972a8-f6e9-56f0-95bb-941d0d773e9b.jpg,4,733,1214,2358,1417,1641,219
+47,main,data/rukopys\main_0047.png,Тридцать пер,legible,school,opornyi_lyceum_zymne,annotator,images/0ee30f12-61cf-58f4-a078-d5464c1f29d5.jpg,1,1591,3104,3016,3605,1433,517
+48,main,data/rukopys\main_0048.png,Дванадцяте січня,legible,school,opornyi_lyceum_zymne,annotator,images/55546b6a-0af3-51f7-bb1f-4ad54704041d.jpg,0,964,178,2184,372,1236,210
+49,main,data/rukopys\main_0049.png,"ні держаки, і ти чепаєшся на них",legible,school,opornyi_lyceum_zymne,annotator,images/381c13d7-a00d-551d-84c4-8efaae7f7927.jpg,12,83,2530,3063,2734,2996,220
+50,main,data/rukopys\main_0050.png,внутрі морів світу. Найменше воно в райо-,legible,school,opornyi_lyceum_zymne,annotator,images/436d379f-820e-5238-98be-7f48fbd55d5b.jpg,15,188,2147,2794,2337,2622,206
+51,main,data/rukopys\main_0051.png,Правила листування,legible,school,opornyi_lyceum_zymne,annotator,images/401a831a-a053-59a0-9736-9ac88b01178a.jpg,10,307,1379,1579,1504,1288,141
+52,main,data/rukopys\main_0052.png,зпечною для людини і потребує негайного зниження,legible,school,opornyi_lyceum_zymne,annotator,images/4bb39692-5b12-545b-b505-921c9bd80afd.jpg,6,119,386,979,438,876,68
+53,main,data/rukopys\main_0053.png,"півночі Африки, багатіло за",legible,school,opornyi_lyceum_zymne,annotator,images/8d6ae56c-b82f-5fc9-829f-6d22f3c4e44e.jpg,3,811,335,2626,502,1831,183
+54,main,data/rukopys\main_0054.png,"Ei = B ΔS/ Δt  cos α = B S' cos α - якщо змінюється площа, обме-",legible,school,opornyi_lyceum_zymne,annotator,images/b527f421-5777-5028-b9e5-4cef094ed620.jpg,11,322,1714,2317,1889,2011,191
+55,main,data/rukopys\main_0055.png,Чинники неживої природи,legible,school,opornyi_lyceum_zymne,annotator,images/c94cc683-eb43-5cd8-afe5-c19c225e3ccd.jpg,4,74,296,748,377,690,97
+56,main,data/rukopys\main_0056.png,"дозволяють їм витримувати посуху, бруньки яких укриті захисни",legible,school,opornyi_lyceum_zymne,annotator,images/08ebba12-1c42-55b7-ac4c-fbb3c4c8ee19.jpg,12,74,2806,3032,2994,2974,204
+57,main,data/rukopys\main_0057.png,"найважливіші слова: ""Війна закінчилася, Україна перемогла"". Тоді",legible,school,opornyi_lyceum_zymne,annotator,images/c793bac7-e8df-57a4-81c8-71d4fc68e4ad.jpg,19,74,3200,2775,3557,2717,373
+58,main,data/rukopys\main_0058.png,6. 1831 - Шевченко їде до Петербурга.,legible,school,opornyi_lyceum_zymne,annotator,images/02db72db-f61d-5bfd-8305-6fc15d35460e.jpg,14,116,2009,1352,2221,1252,228
+59,main,data/rukopys\main_0059.png,зв'язком можуть мати різну будову:,legible,school,opornyi_lyceum_zymne,annotator,images/658315a6-f0e7-5473-adce-58f68b7626ee.jpg,22,152,2560,2614,2696,2478,152
+60,main,data/rukopys\main_0060.png,"дуже гострий запах, на відміну від",legible,school,opornyi_lyceum_zymne,annotator,images/8ec350a5-b68f-5ea4-a8ec-b122d61e8a97.jpg,41,402,2461,2508,2690,2122,245
+61,main,data/rukopys\main_0061.png,Тестовий контроль. Захисні спо-,legible,school,opornyi_lyceum_zymne,annotator,images/c1a3e43b-ae00-5923-8147-4ab2c59e4b39.jpg,4,664,321,2820,545,2172,240
+62,main,data/rukopys\main_0062.png,4- кількість способів обрати цифру тисяч,legible,school,opornyi_lyceum_zymne,annotator,images/094d93ec-8990-576e-8696-3e00651c3a27.jpg,6,84,1420,1501,1648,1433,244
+63,main,data/rukopys\main_0063.png,"родових общин, об'єднаних в",legible,school,opornyi_lyceum_zymne,annotator,images/c6d93adc-a1ed-548a-91b7-e426594e7b65.jpg,9,802,3390,6168,3855,5382,481
+64,main,data/rukopys\main_0064.png,1. Переходьте колії у вставлених,legible,school,opornyi_lyceum_zymne,annotator,images/7437e03e-e6af-5392-8b52-563feb88a6b5.jpg,7,113,1430,2398,1660,2301,246
+65,main,data/rukopys\main_0065.png,2. Тема й основна думка,legible,school,opornyi_lyceum_zymne,annotator,images/d99d27db-5b8b-59a5-96d0-d6ea61ce9c22.jpg,12,350,984,1501,1120,1167,152
+66,main,data/rukopys\main_0066.png,2) Склад речовин географічної оболонки:,legible,school,opornyi_lyceum_zymne,annotator,images/3f2dc582-973e-5091-b41c-9d0c7f53474b.jpg,11,424,1463,2411,1684,2003,237
+67,main,data/rukopys\main_0067.png,Я іду у полі стежкою вузькою. Мрійно і,legible,school,opornyi_lyceum_zymne,annotator,images/4c3eb6e5-50a9-5431-aaba-1f9d863bfaec.jpg,0,168,1017,2898,1192,2746,191
+68,main,data/rukopys\main_0068.png,Активний відпочинок (рух),legible,school,opornyi_lyceum_zymne,annotator,images/28ef87d2-d96b-5c75-b0de-8369d22d109b.jpg,22,164,3535,1525,3745,1377,226
+69,main,data/rukopys\main_0069.png,"2. б)   7. б).   12. а), б, в, г",legible,school,opornyi_lyceum_zymne,annotator,images/08e35e1d-2c2e-5c4d-a3ec-36a721e1f6b0.jpg,20,2053,2157,3309,2250,1272,109
+70,main,data/rukopys\main_0070.png,"V = 13 км / год, ±",legible,school,opornyi_lyceum_zymne,annotator,images/6948aa5f-cf32-50a7-8584-b188edfeb141.jpg,6,327,970,1274,1093,963,139
+71,main,data/rukopys\main_0071.png,I. Вправа Вірю - Не Вірю.,legible,school,opornyi_lyceum_zymne,annotator,images/c6279118-6e4d-53ef-9364-d765d9115e82.jpg,3,407,763,1743,907,1352,160
+72,main,data/rukopys\main_0072.png,чного типів клімату.,legible,school,opornyi_lyceum_zymne,annotator,images/77c6c8a3-a8a5-5023-b474-070b99bd3a34.jpg,2,662,570,2006,697,1360,143
+73,main,data/rukopys\main_0073.png,"1) 0, 3, 8; не можна",legible,school,opornyi_lyceum_zymne,annotator,images/84146287-d4b4-5e09-bba8-12a933148178.jpg,15,184,464,674,513,506,65
+74,main,data/rukopys\main_0074.png,прямолінійного руху,legible,school,opornyi_lyceum_zymne,annotator,images/0c6b661a-fbb1-5c51-8347-32d86172b65d.jpg,5,388,514,1405,650,1033,152
+75,main,data/rukopys\main_0075.png,спосіб життя. Суспільна організа-,legible,school,opornyi_lyceum_zymne,annotator,images/c6d93adc-a1ed-548a-91b7-e426594e7b65.jpg,7,778,2614,6322,3073,5560,475
+76,main,data/rukopys\main_0076.png,Найцініші колекції,legible,school,opornyi_lyceum_zymne,annotator,images/f3757d27-be44-59c7-9d7d-cc28028da9cf.jpg,9,684,2707,2206,2874,1538,183
+77,main,data/rukopys\main_0077.png,"4. В обличчя віяв холодний західний вітер, розганяв густі",legible,school,opornyi_lyceum_zymne,annotator,images/d8f4b4b8-e221-55d5-b3f1-1d142b684826.jpg,17,84,1954,1758,2031,1690,93
+78,main,data/rukopys\main_0078.png,"16, 4, 7, 2.",legible,school,opornyi_lyceum_zymne,annotator,images/74a91432-1cb0-53d6-b613-f1189f6b0719.jpg,13,646,1935,1242,2088,612,169
+79,main,data/rukopys\main_0079.png,∗ Тревіранус - започаткував бота-,legible,school,opornyi_lyceum_zymne,annotator,images/4c530cdc-c0bf-5929-ab70-eaaaa2be2edf.jpg,4,464,1387,2742,1607,2294,236
+80,main,data/rukopys\main_0080.png,"не завжди забезпечує соціальну справедливість, економічну стабільність та ефективний",legible,university,knute,annotator,images/347d94f6-3a45-4cfc-98b3-3b8f15abfa01.jpg,9,49,872,1612,970,1579,114
+81,main,data/rukopys\main_0081.png,сюр'єктивна (бо для будь-якого y ∈ R існує x = ∛̅y̅,legible,university,knute,annotator,images/f09a9efd-0621-4e2e-ab4d-41b6e45f841a.jpg,8,353,830,1550,938,1213,124
+82,main,data/rukopys\main_0082.png,"щення якості, інновації, реклама, сервіс.",legible,university,knute,annotator,images/d5c5b67f-7d0d-485a-b00e-75fc3fcb4577.jpg,24,4,242,806,322,814,96
+83,main,data/rukopys\main_0083.png,Г Еміль Дюркгайм,legible,university,knute,annotator,images/2d403cd3-b70a-4d04-b0ce-167264009361.jpg,16,726,839,1264,910,554,87
+84,main,data/rukopys\main_0084.png,• зниження реальних доходів населення,legible,university,knute,annotator,images/3ac93bb7-d87b-4f64-b085-457a2b00f294.jpg,17,37,865,1084,1025,1063,176
+85,main,data/rukopys\main_0085.png,• харчова добавки (E 334),legible,university,knute,annotator,images/31f96e21-a261-4e2d-8a04-6abc913a3f40.jpg,32,674,2092,1289,2225,631,149
+86,main,data/rukopys\main_0086.png,"права (МОП), гуманітарна допомога (ООН).",legible,university,knute,annotator,images/0c3d0d34-544e-4769-bf13-67558a2974ee.jpg,9,87,501,1192,552,1121,67
+87,main,data/rukopys\main_0087.png,Має 4 місце в ЄС за кількістю IT-фахівців,legible,university,knute,annotator,images/28c85e88-01bf-498c-b2e8-779cf954b9b9.jpg,2,109,187,1109,292,1016,121
+88,main,data/rukopys\main_0088.png,"б) Відображення, сюр'єктивне, ін'єктивне, бієктивне",legible,university,knute,annotator,images/10b425f1-f542-4c62-9c00-e7df45a2e68e.jpg,3,15,279,797,361,798,98
+89,main,data/rukopys\main_0089.png,"установ, організацій, систем та механізмів, які",legible,university,knute,annotator,images/3dfc1873-9f9f-43a4-8fad-4d01eedcbb08.jpg,22,32,1334,1510,1493,1494,175
+90,main,data/rukopys\main_0090.png,нні з іншими?,legible,university,knute,annotator,images/3315399d-0cca-4110-abf5-75de15141f0b.jpg,12,15,867,447,934,448,83
+91,main,data/rukopys\main_0091.png,(3 2 / 2 -1) →  M33 = 3 * (-1) - 2 * 2 = -7 - відповідь,legible,university,knute,annotator,images/315a42fb-485c-4047-81f5-83f3fbe72fce.jpg,16,374,5967,3004,6475,2646,524
+92,main,data/rukopys\main_0092.png,тику кишечника та виведення токсинів,legible,university,knute,annotator,images/b38e62ed-a2fe-4917-9b64-ec15e6cc735b.jpg,15,0,947,1190,1033,1198,102
+93,main,data/rukopys\main_0093.png,2) Чисельність = плановий обсг. продукц. / планова продуктивність,legible,university,knute,annotator,images/20f54e7b-fb31-4e6a-b91a-579da041a4bb.jpg,0,19,0,847,97,844,105
+94,main,data/rukopys\main_0094.png,значення x³);,legible,university,knute,annotator,images/f09a9efd-0621-4e2e-ab4d-41b6e45f841a.jpg,7,783,767,1136,831,369,80
+95,main,data/rukopys\main_0095.png,x = (y-1)/2 => f(x)=y → сюр'єктивна,legible,university,knute,annotator,images/2c8259da-2ea8-45d7-be57-729d7d2c1295.jpg,12,285,1067,1218,1167,949,116
+96,main,data/rukopys\main_0096.png,- Транспорт і логістика,legible,university,knute,annotator,images/2c32de01-de4f-4392-882e-35e1a277f16f.jpg,9,19,440,505,509,502,85
+97,main,data/rukopys\main_0097.png,"Адміністративні - квоти, ціни, стандарти.",legible,university,knute,annotator,images/527dc47c-9055-4d21-a74f-f9faf258f6e9.jpg,10,18,656,929,759,927,119
+98,main,data/rukopys\main_0098.png,"право діяти під іменем відомого бренду, який вже має свою",legible,university,knute,annotator,images/86b4010b-2b26-43b0-8c8f-8f1a1b67f28f.jpg,4,56,224,1656,271,1608,63
+99,main,data/rukopys\main_0099.png,"A(-2,3), B(4,8), C(10,0). Записати загальне рівняння",legible,university,knute,annotator,images/4569afe7-d1b7-4d64-b0e8-2ec363bce075.jpg,4,114,867,1595,1024,1497,173
+100,main,data/rukopys\main_0100.png,"- адвокація заборони участі російських спортсменів, інтелектуалів, громадських",legible,university,knute,annotator,images/015032c0-8cd9-4b22-a474-3118445cf022.jpg,25,25,1374,1651,1505,1639,147
+101,main,data/rukopys\main_0101.png,"нути дефолту та стабілізувати валюту, програми",legible,university,knute,annotator,images/3033749a-df7e-41e3-a2d2-1a1c6880fd68.jpg,26,30,918,1634,1013,1620,111
+102,main,data/rukopys\main_0102.png,Ліпіди - це велика група органічних речовин не роз. у,legible,university,knute,annotator,images/33b81934-8670-4bcd-8173-f8aa4eaf811f.jpg,1,0,62,1567,155,1575,109
+103,main,data/rukopys\main_0103.png,"у є [0, 7], отримуємо:",legible,university,knute,annotator,images/514a6e85-ef28-40a7-9e63-cdc1d4aacd31.jpg,14,0,939,673,1013,681,90
+104,main,data/rukopys\main_0104.png,C2H5OH + O2 → CH3COOH + H2O - окиснення обміну,legible,university,knute,annotator,images/1e1c8aaf-265f-4edb-a126-7146aaca7bc5.jpg,36,38,1893,1292,1967,1270,90
+105,main,data/rukopys\main_0105.png,"3) Пам'ять - це психічний процес збереження, накопичення і відтворення",legible,university,knute,annotator,images/3abd7b4f-1e2a-45df-ab9a-37ee85d074ab.jpg,7,34,506,1654,685,1630,195
+106,main,data/rukopys\main_0106.png,Перевірка властивостей:,legible,university,knute,annotator,images/32199330-48c0-49c9-a9bb-597b60bada67.jpg,6,76,1029,775,1114,715,101
+107,main,data/rukopys\main_0107.png,1/36 - 1¹⁹/4 → 1/36 - 9/36 = 8⁴/36 = - 2/9 - відповідь,legible,university,knute,annotator,images/315a42fb-485c-4047-81f5-83f3fbe72fce.jpg,6,228,2227,3137,2885,2925,674
+108,main,data/rukopys\main_0108.png,виробництва та продажу,legible,university,knute,annotator,images/d5c5b67f-7d0d-485a-b00e-75fc3fcb4577.jpg,17,10,1684,570,1779,576,111
+109,main,data/rukopys\main_0109.png,Відповідь: C12 = 3,legible,university,knute,annotator,images/20e7a22d-e09f-4986-9ca3-8e5f091de7b6.jpg,24,82,7202,1605,7436,1539,250
+110,main,data/rukopys\main_0110.png,б) Щавлева кислота застосовується у харчовій промисловості,legible,university,knute,annotator,images/4169a8ea-8c08-4673-b3c5-cbfc0ef91f9a.jpg,7,183,678,1625,772,1458,110
+111,main,data/rukopys\main_0111.png,"наприклад вважається, що надається невиключна ліцензія, а дія ліцензії",legible,university,knute,annotator,images/16d7ebbe-ada2-4c47-bff2-b8b755e18d23.jpg,22,34,1523,1633,1693,1615,186
+112,main,data/rukopys\main_0112.png,"Мета: аналіз, узагальнення, формулювання теорій і концепцій.",legible,university,knute,annotator,images/3b2a33c5-e8e3-44f3-910b-7c2ffa2409a0.jpg,44,102,2184,1494,2236,1408,68
+113,main,data/rukopys\main_0113.png,"33. множення рядка на ненульовий множник, переставляння місцями двох",legible,university,knute,annotator,images/24d67fd9-4cb4-46b6-acc4-de94ddff93ba.jpg,22,554,4408,4734,4637,4196,245
+114,main,data/rukopys\main_0114.png,та → хлорангідрид пропіонової кислоти.,legible,university,knute,annotator,images/29e034bc-a78b-44dc-a56c-56d179e1133f.jpg,9,76,653,1599,740,1539,103
+115,main,data/rukopys\main_0115.png,(Натрій сульфат; обміну; не ОВР),legible,university,knute,annotator,images/369b5ac8-42a7-4a5c-8782-509974ddafad.jpg,21,43,1607,865,1682,838,91
+116,main,data/rukopys\main_0116.png,"Для того, щоб дізнатися умови чистої торгівлі, спершу потрібно",legible,university,knute,annotator,images/28c85e88-01bf-498c-b2e8-779cf954b9b9.jpg,20,107,1176,1474,1281,1383,121
+117,main,data/rukopys\main_0117.png,"лацетилену та 1,3-пропандіолу",legible,university,knute,annotator,images/29e034bc-a78b-44dc-a56c-56d179e1133f.jpg,20,85,1251,1360,1420,1291,185
+118,main,data/rukopys\main_0118.png,ресурсів - усе частіше стають причинами переселе-,legible,university,knute,annotator,images/73ae3983-d41a-47d4-97dc-0843f1125c39.jpg,7,33,341,1656,421,1631,96
+119,main,data/rukopys\main_0119.png,"французьких кораблів, які передбачені їхнім законодавством.",legible,university,knute,annotator,images/6831e73c-81c8-4cb5-b4b6-704c068fa889.jpg,37,35,2150,1509,2242,1490,108
+120,illeg,data/rukopys\illeg_0000.png,"від ароулящого сьогодня. Красне письменництво, спе-",illegible,archive,tsdavo,annotator,images/35f4140a-b8e7-47a4-97c0-60fbad0d61e4.jpg,25,64,2076,1932,2150,1884,90
+121,illeg,data/rukopys\illeg_0001.png,,illegible,archive,tsdavo,annotator,images/4e44f694-6d5c-4054-a094-79802d3e794b.jpg,15,118,1219,1892,1318,1790,115
+122,illeg,data/rukopys\illeg_0002.png,,illegible,archive,tsdavo,annotator,images/4e44f694-6d5c-4054-a094-79802d3e794b.jpg,1,108,133,1914,227,1822,110
+123,illeg,data/rukopys\illeg_0003.png,,illegible,archive,tsdavo,annotator,images/c6f71754-c00f-44cb-bcca-91528d204ac4.jpg,19,70,1663,1181,1748,1127,101
+124,illeg,data/rukopys\illeg_0004.png,,illegible,archive,tsdavo,volunteer,images/4147d461-2a04-4ed2-864c-10c9dc7c7092.jpg,14,48,1162,1026,1269,994,123
+125,illeg,data/rukopys\illeg_0005.png,,illegible,archive,tsdavo,volunteer,images/4147d461-2a04-4ed2-864c-10c9dc7c7092.jpg,13,40,1078,1035,1185,1011,123
+126,illeg,data/rukopys\illeg_0006.png,,illegible,archive,tsdavo,volunteer,images/4147d461-2a04-4ed2-864c-10c9dc7c7092.jpg,17,48,1406,1026,1513,994,123
+127,illeg,data/rukopys\illeg_0007.png,,illegible,archive,tsdavo,annotator,images/2448cade-5691-4754-9cdb-f1f31f4fc1c7.jpg,23,1268,244,1693,346,441,118
+128,illeg,data/rukopys\illeg_0008.png,,illegible,archive,tsdavo,annotator,images/0dd99e29-a643-45b6-8ff4-89c6dcce88df.jpg,17,84,409,1249,491,1181,98
+129,illeg,data/rukopys\illeg_0009.png,,illegible,archive,tsdavo,annotator,images/2448cade-5691-4754-9cdb-f1f31f4fc1c7.jpg,22,973,152,1684,231,727,95
+130,illeg,data/rukopys\illeg_0010.png,"за ним примусово бадьоре ""Говорить Київ!"" давали знак, що",illegible,dictation,national_dictation,annotator,images/1aab36d0-c219-42ec-b70b-38c177c48405.jpg,3,224,521,3016,702,2808,197
+131,illeg,data/rukopys\illeg_0011.png,сенсів здатен виражати людський,illegible,dictation,national_dictation,volunteer,images/e265440f-4c38-4ad4-bc12-8753dd7b43e5.jpg,16,292,2164,2358,2291,2082,143
+132,illeg,data/rukopys\illeg_0012.png,Спочатку був „брехунець“. З нього починанав,illegible,dictation,national_dictation,volunteer,images/8b317305-cb50-4a03-bb3b-27478b0683db.jpg,1,178,161,1441,238,1279,93
+133,illeg,data/rukopys\illeg_0013.png,,illegible,dictation,national_dictation,volunteer,images/7886ba12-2bb5-4cdb-b109-dffb18afc519.jpg,26,66,843,1132,882,1082,55
+134,illeg,data/rukopys\illeg_0014.png,"модуляціях ловили, мов ковток",illegible,dictation,national_dictation,volunteer,images/f8063335-2f51-4f48-9a21-d145c2214f3e.jpg,9,92,850,1579,922,1503,88
+135,illeg,data/rukopys\illeg_0015.png,"починався день - клац, і пронизливе",illegible,dictation,national_dictation,volunteer,images/dbc2f0a0-2b3a-4ec2-9660-28d037858839.jpg,2,364,618,2724,826,2376,224
+136,illeg,data/rukopys\illeg_0016.png,,illegible,school,opornyi_lyceum_zymne,annotator,images/46970a94-d3ba-5837-a70c-645da367473c.jpg,18,177,3837,1257,3980,1096,159
+137,illeg,data/rukopys\illeg_0017.png,"5. Б, Г.",illegible,school,opornyi_lyceum_zymne,volunteer,images/4470b741-e2c6-54d5-95f1-2621ea40049e.jpg,11,269,1385,759,1595,506,226
+138,illeg,data/rukopys\illeg_0018.png,неважно,illegible,school,opornyi_lyceum_zymne,volunteer,images/7b62c8b6-c185-5290-bfd5-5c32eaae2a0c.jpg,14,325,2484,937,2623,628,155
+139,illeg,data/rukopys\illeg_0019.png,,illegible,school,opornyi_lyceum_zymne,annotator,images/a25ca876-c682-5963-9786-bf2b266e037f.jpg,3,500,1136,879,1264,395,144
+140,illeg,data/rukopys\illeg_0020.png,Otrzymanie brzmienia.,illegible,school,opornyi_lyceum_zymne,volunteer,images/7b62c8b6-c185-5290-bfd5-5c32eaae2a0c.jpg,21,1568,3269,2481,3401,929,148
+141,illeg,data/rukopys\illeg_0021.png,- 80 - m' роки XIX ст - початок промислового,illegible,school,opornyi_lyceum_zymne,volunteer,images/7b62c8b6-c185-5290-bfd5-5c32eaae2a0c.jpg,13,351,2349,2808,2537,2473,204
+142,illeg,data/rukopys\illeg_0022.png,,illegible,school,opornyi_lyceum_zymne,annotator,images/8f8e6637-3459-5be2-8ebe-6b66ca5ba62a.jpg,0,1932,0,3072,366,1148,374
+143,illeg,data/rukopys\illeg_0023.png,,illegible,school,opornyi_lyceum_zymne,annotator,images/46970a94-d3ba-5837-a70c-645da367473c.jpg,0,868,792,1945,898,1093,122
+144,illeg,data/rukopys\illeg_0024.png,,illegible,school,opornyi_lyceum_zymne,annotator,images/8be26325-cd9b-5da8-a72f-2025b242087d.jpg,5,198,2326,1123,2579,941,269
+145,illeg,data/rukopys\illeg_0025.png,місцезростання.,illegible,school,opornyi_lyceum_zymne,volunteer,images/86047fb9-47fc-57c2-9235-2aa5fc173704.jpg,6,166,2890,3227,3268,3077,394
+146,illeg,data/rukopys\illeg_0026.png,,illegible,university,knute,annotator,images/33b81934-8670-4bcd-8173-f8aa4eaf811f.jpg,11,21,957,752,1053,747,112
+147,illeg,data/rukopys\illeg_0027.png,,illegible,university,knute,volunteer,images/7bd45413-5209-4283-9bfe-119eadcf9f48.jpg,0,115,1256,860,1372,761,132
+148,illeg,data/rukopys\illeg_0028.png,,illegible,university,knute,annotator,images/33b81934-8670-4bcd-8173-f8aa4eaf811f.jpg,13,0,1045,350,1123,358,94
+149,illeg,data/rukopys\illeg_0029.png,,illegible,university,knute,annotator,images/d5c5b67f-7d0d-485a-b00e-75fc3fcb4577.jpg,26,5,2160,705,2248,713,104
+150,illeg,data/rukopys\illeg_0030.png,,illegible,university,knute,annotator,images/3335d175-12c0-4675-8cc7-5b1221a4a52a.jpg,3,184,362,1397,452,1229,106
+151,illeg,data/rukopys\illeg_0031.png,,illegible,school,opornyi_lyceum_zymne,volunteer,images/c6184d37-4bcc-57f6-a67d-3edbb77f5e09.jpg,10,310,1720,2936,1981,2642,277
+152,illeg,data/rukopys\illeg_0032.png,,illegible,school,opornyi_lyceum_zymne,volunteer,images/59574d0a-5742-588b-a607-91c6b0b7dcc2.jpg,0,84,0,840,54,772,62
+153,illeg,data/rukopys\illeg_0033.png,"- Западини і впадини на платформах : Наприклад, пов'язані",illegible,school,opornyi_lyceum_zymne,annotator,images/e936df18-d762-5519-80f9-5cb38bb0e2c9.jpg,4,99,676,2772,1022,2689,362
+154,illeg,data/rukopys\illeg_0034.png,,illegible,school,opornyi_lyceum_zymne,annotator,images/4eb2d6c1-daeb-5bb7-94f6-b89a7cb6d9d2.jpg,7,2470,676,2688,733,226,73
+155,illeg,data/rukopys\illeg_0035.png,вимагає виключно право,illegible,school,opornyi_lyceum_zymne,volunteer,images/77a6985e-3dea-5c9f-97f7-866cf236bd6d.jpg,2,181,449,2811,795,2646,362
+156,illeg,data/rukopys\illeg_0036.png,ними,illegible,school,opornyi_lyceum_zymne,volunteer,images/c70ae9c9-773a-5498-8676-8c124a12ac8c.jpg,7,836,965,1029,1029,209,80
+157,illeg,data/rukopys\illeg_0037.png,,illegible,school,opornyi_lyceum_zymne,annotator,images/8f8e6637-3459-5be2-8ebe-6b66ca5ba62a.jpg,5,1721,409,1995,523,290,130
+158,illeg,data/rukopys\illeg_0038.png,,illegible,school,opornyi_lyceum_zymne,volunteer,images/3e37f107-e0a7-50d8-b181-6654ed1764f0.jpg,7,57,1097,2889,1885,2848,804
+159,illeg,data/rukopys\illeg_0039.png,,illegible,school,opornyi_lyceum_zymne,volunteer,images/5269190b-47a6-51cc-bcde-b44ce29e7a94.jpg,4,288,352,760,464,488,128
