@@ -24,7 +24,8 @@ PROMPT = ("Перепиши дослівно весь текст із зобра
           "Нічого не виправляй, не перекладай і не додавай пояснень.")
 VLM_NUM_PREDICT = {"line": 300, "page": 1500}
 VLM_NUM_CTX = 8192
-PAGE_LONG_SIDE = 2000
+VLM_RETRIES = 3
+PAGE_LONG_SIDE = {"E": 1600, "V": 1600}
 
 OUT_CSV = "results/ocr_raw.csv"
 RUN_INFO = "results/run_info.json"
@@ -66,10 +67,10 @@ def preprocess(img, steps=(), page=False):
   return out
 
 
-def load_gray(path, page=False):
+def load_gray(path, page=False, long_side=2000):
   arr = np.array(ImageOps.exif_transpose(Image.open(path)).convert("L"))
   if page:
-    k = PAGE_LONG_SIDE / max(arr.shape)
+    k = long_side / max(arr.shape)
     arr = cv2.resize(arr, None, fx=k, fy=k, interpolation=cv2.INTER_AREA)
   return arr
 
@@ -117,7 +118,7 @@ def group_into_lines(res):
 
 def ocr_easyocr(img, kind="line"):
   t0 = time.perf_counter()
-  res = get_reader().readtext(img, detail=1)
+  res = get_reader().readtext(img, detail=1, canvas_size=1600)
   text = "\n".join(group_into_lines(res))
   conf = float(np.mean([r[2] for r in res])) if res else 0.0
   return text, conf, time.perf_counter() - t0, ""
@@ -125,18 +126,28 @@ def ocr_easyocr(img, kind="line"):
 def ocr_vlm(img, kind="line"):
   buf = io.BytesIO()
   Image.fromarray(img).save(buf, format="PNG")
-  t0 = time.perf_counter()
-  resp = get_client().chat(
-    model=VLM_MODEL, keep_alive="30m",
-    options={"temperature": 0, "seed": SEED, "num_predict": VLM_NUM_PREDICT[kind],
-             "num_ctx": VLM_NUM_CTX},
-    messages=[{"role": "user", "content": PROMPT, "images": [buf.getvalue()]}])
-  sec = time.perf_counter() - t0
-  text = resp["message"]["content"].strip()
-  reason = str(getattr(resp, "done_reason", "") or "")
-  if not text and reason != "stop":
-    raise RuntimeError(f"порожня відповідь VLM (done_reason='{reason}', {sec:.1f} с)")
-  return text, "", sec, reason
+  data = buf.getvalue()
+  options = {"temperature": 0, "seed": SEED, "num_predict": VLM_NUM_PREDICT[kind]}
+  if VLM_NUM_CTX:
+    options["num_ctx"] = VLM_NUM_CTX
+  for attempt in range(1, VLM_RETRIES + 1):
+    t0 = time.perf_counter()
+    try:
+      resp = get_client().chat(
+        model=VLM_MODEL, keep_alive="30m", options=options,
+        messages=[{"role": "user", "content": PROMPT, "images": [data]}])
+    except Exception as e:
+      tqdm.write(f"  помилка Ollama (спроба {attempt}/{VLM_RETRIES}): {e}")
+      time.sleep(10)
+      continue
+    sec = time.perf_counter() - t0
+    text = resp["message"]["content"].strip()
+    reason = str(getattr(resp, "done_reason", "") or "")
+    if text or reason == "stop":
+      return text, "", sec, f"{reason}|attempt={attempt}"
+    tqdm.write(f"  порожня відповідь, done_reason={reason!r}, {sec:.1f} с, спроба {attempt}/{VLM_RETRIES}")
+    time.sleep(10)
+  raise RuntimeError("VLM повертає порожню відповідь без done_reason=stop")
 
 ENGINES = {"E": ocr_easyocr, "V": ocr_vlm}
 
@@ -284,7 +295,7 @@ def main():
     bar = tqdm(todo, unit="зобр")
     for t in bar:
       try:
-        img = preprocess(load_gray(t["path"], t["page"]), PREPS[t["prep"]], page=t["page"])
+        img = preprocess(load_gray(t["path"], t["page"], PAGE_LONG_SIDE[t["engine"]]), PREPS[t["prep"]], page=t["page"])
         text, conf, sec, reason = ENGINES[t["engine"]](img, "page" if t["page"] else "line")
       except Exception as e:
         failed += 1
